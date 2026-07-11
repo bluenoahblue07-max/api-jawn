@@ -1,0 +1,14 @@
+        #body { font-family: sans-serif; padding: 20px; 
+        
+        }
+
+        .controls { display: flex; gap: 15px; margin-bottom: 20px; }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; }
+
+        .card { border: 1px solid #ccc; padding: 15px; border-radius: 6px; }
+
+        .foot{
+      background-color: rgb(189, 189, 189);
+      margin-top: 45dvh;
+        }
